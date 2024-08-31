@@ -38,7 +38,7 @@ Recommendations: Provided actionable recommendations based on findings.
 Future Work: Can try to resolve the limitations stated above.
 
 Group Details:
-Jith Philip Xavier (202418022)
-Naman Gandhi (202418038)
-Anujit Nair (202418036)
+Jith Philip Xavier (202418022),
+Naman Gandhi (202418038),
+Anujit Nair (202418036),
 Dhruv Jain (201418020)
